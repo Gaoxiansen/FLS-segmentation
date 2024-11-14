@@ -15,8 +15,8 @@ A lightweight FLS segmentation network. The network based on YOLOv8, contains th
 
 1.pip install ultralytics==8.2.36
 
-  pip installtorch==2.3.0
+2.pip installtorch==2.3.0
   
-  pip install torchvision==0.18.0
+3.pip install torchvision==0.18.0
 
-2.Replace the ultralytics folder by the zip file.
+4.Replace the ultralytics folder by the zip file.
