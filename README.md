@@ -15,4 +15,4 @@ A lightweight FLS segmentation network. The network based on YOLOv8, contains th
 
 1.pip install -r requirements.txt
 
-2.Replace the ultralytics folder by the rar file.
+2.Replace the ultralytics folder by the zip file.
