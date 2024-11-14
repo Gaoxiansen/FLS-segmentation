@@ -1,5 +1,5 @@
 # FLS-segmentation
-A lightweight FLS segmentation network. The network based on YOLOv8, contains the yaml file and weights file of the network. The dataset refer to the URL:https://www.kaggle.com/datasets/gaoxiansen93/forward-looking-sonar-obstacle-segmentation.
+A lightweight FLS segmentation network. The network based on YOLOv8, contains the yaml file and weights file of the network. The dataset refer to the URL:https://www.kaggle.com/datasets/gaoxiansen93/forward-looking-sonar-obstacle-segmentation. Python>=3.8
 
 ## Files instructions
 ├── ReadMe.md           
@@ -13,6 +13,6 @@ A lightweight FLS segmentation network. The network based on YOLOv8, contains th
 
 ## Follow these two steps:
 
-1.pip install -r requirements.txt
+1.pip install ultralytics==8.2.36
 
 2.Replace the ultralytics folder by the zip file.
