@@ -6,7 +6,7 @@ A lightweight FLS segmentation network. The network based on YOLOv8, contains th
     
 ├── test_model_type    // Yaml files of some test model
     
-├── best.pt    // model weights file of ghost-YOLO for segmentation
+├── best.pt    // model weights file of ghost-YOLO for segmentation (Trained by ./test_model_type/yolov8_GhostNetX0.5.yaml)
 
 ├── ultralytics.zip    // Modified code files of YOLOv8
 
